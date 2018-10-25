@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92a4a4676591c48c18021db13693d2a2, type: 3}
+  m_Name: MeshEditorColourSettings
+  m_EditorClassIdentifier: 
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0.105731584, g: 0.11833076, b: 0.8301887, a: 1}
+    key1: {r: 0.8207547, g: 0.73979044, b: 0.07355818, a: 1}
+    key2: {r: 0.44648656, g: 0.8301887, b: 0.20754717, a: 1}
+    key3: {r: 0.36032534, g: 0.6415094, b: 0.18458524, a: 0}
+    key4: {r: 0.6037736, g: 0.3492851, b: 0.13385546, a: 0}
+    key5: {r: 0.5, g: 0.26251814, b: 0.058962256, a: 0}
+    key6: {r: 1, g: 1, b: 1, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 3084
+    ctime2: 12914
+    ctime3: 25443
+    ctime4: 39128
+    ctime5: 57440
+    ctime6: 65535
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 65535
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 7
+    m_NumAlphaKeys: 2
+  planetMaterial: {fileID: 2100000, guid: 18abaea7e2f0c44938f2a6ee84100136, type: 2}
